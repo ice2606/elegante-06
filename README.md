@@ -6,7 +6,7 @@
     <title>Fondo de Imagen</title>
     <style>
         body {
-            background-image: url('131224220-fashion-sandals-new-collection-advertising-promo-banner-online-shopping-social-media-with-beautiful.jpg');
+            background-image: url('https://hips.hearstapps.com/hmg-prod/images/sandalias-tacon-ancho-01-67e2959a7b4f9.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*');
             background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
