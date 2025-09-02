@@ -126,11 +126,12 @@
     <div class="product-card">
         <img src="01.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>sandalias </h1>
+            <h1>tacones  </h1>
             <p>
-sandalias blanca 
+color negro punta fina 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20sandalias blanca  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20tacones color negro punta fina 
+                '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
@@ -138,25 +139,24 @@ sandalias blanca
  <div class="product-card">
         <img src="02.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>sandalias </h1>
+            <h1>tacones  </h1>
             <p>
-          sandalias blancas con diseño peludito
+         tacones color negro 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 sandalias blancas con diseño peludito '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 tacones color negro  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="03.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> sandalias  </h1>
+            <h1> tacones   </h1>
             <p>
-sandalias con lazo
+tacones blancos
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20sandalias con lazo'" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20tacones blancos '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
-        </di>
     <a href="https://ice2606.github.io/elegante-02/" class="back-button">
         Ir atrás
     </a>
