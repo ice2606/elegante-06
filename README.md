@@ -6,7 +6,7 @@
     <title>Fondo de Imagen</title>
     <style>
         body {
-            background-image: url('f728c-chanclas-para-la-playa.jpg');
+            background-image: url('131224220-fashion-sandals-new-collection-advertising-promo-banner-online-shopping-social-media-with-beautiful.jpg');
             background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
